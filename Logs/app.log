@@ -1,0 +1,66 @@
+2024-09-22 15:50:39,036 INFO:word2vec_model loaded successfully
+2024-09-22 15:50:39,036 INFO:support_classification_model loaded successfully
+2024-09-22 15:50:39,065 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-22 15:50:39,065 INFO:[33mPress CTRL+C to quit[0m
+2024-09-22 15:50:39,065 INFO: * Restarting with stat
+2024-09-22 15:50:42,341 INFO:word2vec_model loaded successfully
+2024-09-22 15:50:42,358 INFO:support_classification_model loaded successfully
+2024-09-22 15:50:42,367 WARNING: * Debugger is active!
+2024-09-22 15:50:42,369 INFO: * Debugger PIN: 534-741-545
+2024-09-22 15:51:14,315 INFO:word2vec_model loaded successfully
+2024-09-22 15:51:14,334 INFO:support_classification_model loaded successfully
+2024-09-22 15:51:14,354 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-22 15:51:14,354 INFO:[33mPress CTRL+C to quit[0m
+2024-09-22 15:51:14,355 INFO: * Restarting with stat
+2024-09-22 15:51:17,465 INFO:word2vec_model loaded successfully
+2024-09-22 15:51:17,467 INFO:support_classification_model loaded successfully
+2024-09-22 15:51:17,478 WARNING: * Debugger is active!
+2024-09-22 15:51:17,480 INFO: * Debugger PIN: 534-741-545
+2024-09-22 15:51:35,055 INFO:word2vec_model loaded successfully
+2024-09-22 15:51:35,055 INFO:support_classification_model loaded successfully
+2024-09-22 15:51:35,071 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-22 15:51:35,071 INFO:[33mPress CTRL+C to quit[0m
+2024-09-22 15:51:35,071 INFO: * Restarting with stat
+2024-09-22 15:51:38,313 INFO:word2vec_model loaded successfully
+2024-09-22 15:51:38,313 INFO:support_classification_model loaded successfully
+2024-09-22 15:51:38,329 WARNING: * Debugger is active!
+2024-09-22 15:51:38,329 INFO: * Debugger PIN: 534-741-545
+2024-09-22 16:30:55,704 INFO:word2vec_model loaded successfully
+2024-09-22 16:30:55,710 INFO:support_classification_model loaded successfully
+2024-09-22 16:30:55,735 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-22 16:30:55,735 INFO:[33mPress CTRL+C to quit[0m
+2024-09-22 16:30:55,735 INFO: * Restarting with stat
+2024-09-22 16:31:01,346 INFO:word2vec_model loaded successfully
+2024-09-22 16:31:01,359 INFO:support_classification_model loaded successfully
+2024-09-22 16:31:01,363 WARNING: * Debugger is active!
+2024-09-22 16:31:01,378 INFO: * Debugger PIN: 534-741-545
+2024-09-22 16:39:44,396 - __main__ - INFO - Word2Vec model loaded successfully
+2024-09-22 16:39:44,396 - __main__ - INFO - Support classification model loaded successfully
+2024-09-22 16:39:44,396 - __main__ - INFO - Starting the Flask application
+2024-09-22 16:39:49,736 - __main__ - INFO - Word2Vec model loaded successfully
+2024-09-22 16:39:49,744 - __main__ - INFO - Support classification model loaded successfully
+2024-09-22 16:39:49,744 - __main__ - INFO - Starting the Flask application
+2024-09-22 16:40:23,475 - __main__ - INFO - Received text for classification: "Could you please assist me in navigating the step...
+2024-09-22 16:40:24,581 - __main__ - INFO - TextProcessor initialized
+2024-09-22 16:40:24,589 - __main__ - INFO - Predictor initialized
+2024-09-22 16:40:24,590 - __main__ - DEBUG - Text cleaned: could you please assist me in navigating the steps...
+2024-09-22 16:40:24,632 - __main__ - DEBUG - Text lemmatized: could you please assist I in navigate the step req...
+2024-09-22 16:40:25,036 - __main__ - DEBUG - POS tags extracted: please assist navigate step initiate credit card a...
+2024-09-22 16:40:25,036 - __main__ - DEBUG - Word2Vec vector generated for: please assist navigate step initiate credit card a...
+2024-09-22 16:40:25,036 - __main__ - INFO - Text processed: "Could you please assist me in navigating the step...
+2024-09-22 16:40:25,036 - __main__ - INFO - Prediction made: Credit Card/Prepaid Card
+2024-09-22 16:40:25,036 - __main__ - INFO - Ticket classified as: Credit Card/Prepaid Card
+2024-09-22 16:41:35,923 - __main__ - INFO - Received text for classification: I want to create an bank account in this bank. Cou...
+2024-09-22 16:41:36,869 - __main__ - INFO - TextProcessor initialized
+2024-09-22 16:41:36,869 - __main__ - INFO - Predictor initialized
+2024-09-22 16:41:36,870 - __main__ - DEBUG - Text cleaned: i want to create an bank account in this bank coul...
+2024-09-22 16:41:36,894 - __main__ - DEBUG - Text lemmatized: I want to create an bank account in this bank coul...
+2024-09-22 16:41:36,896 - __main__ - DEBUG - POS tags extracted: create bank account bank please walk step bank acc...
+2024-09-22 16:41:36,901 - __main__ - DEBUG - Word2Vec vector generated for: create bank account bank please walk step bank acc...
+2024-09-22 16:41:36,901 - __main__ - INFO - Text processed: I want to create an bank account in this bank. Cou...
+2024-09-22 16:41:36,901 - __main__ - INFO - Prediction made: Bank account services
+2024-09-22 16:41:36,901 - __main__ - INFO - Ticket classified as: Bank account services
