@@ -51,29 +51,6 @@ This project develops a machine learning solution for classifying support ticket
 - Real-time ticket classification
 - Results display in UI
 
-## Setup and Installation
-
-### Prerequisites
-- Python 3.8+
-- Required libraries (see `requirements.txt`)
-
-### Installation Steps
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/support-ticket-classification.git
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-python app.py
-```
-
-
 ## Future Improvements
 - Implement more advanced NLP techniques
 - Expand classification categories
